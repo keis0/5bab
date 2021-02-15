@@ -16,6 +16,7 @@ baseurl: /5bab # the subpath of your site, e.g. /blog
 url: http://keis0.github.io # the base hostname & protocol for your site
 # twitter_username: Taffyer 
 github_username:  aqng22 
+comments: true
 
 # Build settings
 markdown: kramdown
