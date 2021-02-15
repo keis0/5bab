@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://keis0.github.io/5bab/sitemap.xml
