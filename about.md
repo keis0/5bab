@@ -14,7 +14,13 @@ permalink: /about/
 <iframe 
     width="90%" 
     height="450" 
-    src="https://www.google.com/maps/d/edit?mid=16XmMZkf2_W6bPFprc6d3Etjq1g8K-ceN&usp=sharing?key=AIzaSyBhDGmDJjqLS6-EVFisW6eS34O_qm9ygnU">
+    src="https://www.google.com/maps/d/edit?key=AIzaSyBhDGmDJjqLS6-EVFisW6eS34O_qm9ygnU?mid=16XmMZkf2_W6bPFprc6d3Etjq1g8K-ceN&usp=sharing">
+</iframe>
+
+<iframe 
+    width="90%" 
+    height="450" 
+    src="https://www.google.com/maps/d/u/0/viewer?hl=ko&mid=16XmMZkf2_W6bPFprc6d3Etjq1g8K-ceN&ll=37.41759019044414%2C126.99860624999997&z=11?key=AIzaSyBhDGmDJjqLS6-EVFisW6eS34O_qm9ygnU">
 </iframe>
 
 <iframe
@@ -23,3 +29,5 @@ permalink: /about/
   frameborder="0" style="border:0"
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBhDGmDJjqLS6-EVFisW6eS34O_qm9ygnU&q=Space+Needle,Seattle+WA">
 </iframe>
+
+https://www.google.com/maps/d/u/0/viewer?hl=ko&mid=16XmMZkf2_W6bPFprc6d3Etjq1g8K-ceN&ll=37.41759019044414%2C126.99860624999997&z=11
