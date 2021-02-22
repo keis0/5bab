@@ -10,3 +10,5 @@ permalink: /about/
 -----
 
 <iframe src="https://www.google.com/maps/d/edit?mid=16XmMZkf2_W6bPFprc6d3Etjq1g8K-ceN" width="90%" height="480"></iframe>
+
+<a href = "https://www.google.com/maps/d/edit?mid=16XmMZkf2_W6bPFprc6d3Etjq1g8K-ceN&usp=sharing"></a>
