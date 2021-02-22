@@ -11,4 +11,8 @@ permalink: /about/
 
 <a href = "https://www.google.com/maps/d/edit?mid=16XmMZkf2_W6bPFprc6d3Etjq1g8K-ceN&usp=sharing"> 셔틀버스 위치 </a>
 
-{% include google_maps.html %}  
+<iframe 
+    width="90%" 
+    height="450" 
+    src="https://www.google.com/maps/d/edit?mid=16XmMZkf2_W6bPFprc6d3Etjq1g8K-ceN&usp=sharing?KEY=AIzaSyBhDGmDJjqLS6-EVFisW6eS34O_qm9ygnU">
+</iframe>
