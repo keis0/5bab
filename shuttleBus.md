@@ -4,6 +4,10 @@ title: shuttle bus
 permalink: /shuttleBus/
 ---
 
+* 마지막 업데이트: 2021-02-20 
+
+* 수정하려면 큰 지도로 열고 "수정"을 누르세요(모바일앱에서는 불가능)
+
 <iframe 
     width="90%" 
     height="450" 
