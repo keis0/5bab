@@ -3,6 +3,7 @@ layout: page
 title: shuttle bus
 permalink: /shuttleBus/
 ---
+* 참고만 해주세요! 정확한 정보가 아닐수도 있습니다.
 
 * 마지막 업데이트: 2021-02-20(19번 노선까지 추가)
 
